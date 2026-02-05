@@ -38,7 +38,7 @@ Qualified leads are automatically routed to a human sales closer.
 - VPS-based deployment
 
 ## 📷 Workflow & Architecture
-Workflow diagrams and screenshots see available in the `/docs` folder.
+Workflow diagrams and screenshots are available in the `/docs` folder.
 
 ## 🎯 Real-world Usage
 This system was designed and deployed for a real business environment,
