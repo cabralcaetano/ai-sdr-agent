@@ -39,6 +39,8 @@ Qualified leads are automatically routed to a human sales closer.
 
 ## 📷 Workflow & Architecture
 Workflow diagrams and screenshots are available in the `/docs` folder.
+![Workflow diagram](docs/image.png)
+
 
 ## 🎯 Real-world Usage
 This system was designed and deployed for a real business environment,
